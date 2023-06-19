@@ -1,0 +1,18 @@
+End point:https://thetestingworldapi.com/api/studentsDetails
+
+
+Body
+{
+  "id": 0,
+  "first_name": "string",
+  "middle_name": "string",
+  "last_name": "string",
+  "date_of_birth": "string"
+}
+
+"first_name": "string",
+  "middle_name": "string",
+  "last_name": "
+
+
+Firstname,middlename,lastname,dob,updated_dob	
